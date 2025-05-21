@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c133937e-386e-4a1d-bf75-73069fc46de3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SmartMobility2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_05_2025_19_08_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_05_2025_19_08__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/base.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartMobility2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SmartMobility2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartMobilityDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SmartMobilityDA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +118,8 @@
       <workItem from="1747142106661" duration="14381000" />
       <workItem from="1747640198919" duration="369000" />
       <workItem from="1747746842704" duration="690000" />
-      <workItem from="1747748164816" duration="6934000" />
+      <workItem from="1747748164816" duration="22756000" />
+      <workItem from="1747818562627" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="def">
       <option name="closed" value="true" />
@@ -147,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747155878043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Smart Mobility Traffic Analysis notebook and update workspace settings">
+      <option name="closed" value="true" />
+      <created>1747755361300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747755361300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="def" />
     <MESSAGE value="Predizione dello stato del traffico con Random Forest Classifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Predizione dello stato del traffico con Random Forest Classifier" />
+    <MESSAGE value="Add Smart Mobility Traffic Analysis notebook and update workspace settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Smart Mobility Traffic Analysis notebook and update workspace settings" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
